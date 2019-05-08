@@ -55,7 +55,7 @@ class LT8920
 
     /** Sets the data rate
     * @param rate the transmission/reception speed
-    * @returns true when the data rate was succesfully changed.
+    * @returns true when the data rate was successfully changed.
     */
     bool setDataRate(DataRate rate);
 
